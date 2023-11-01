@@ -1,10 +1,4 @@
-# Leme.io
-
-Uma plataforma de talentos para freelances, com foco na região de Leme/SP
-
-Aberta a qualquer tipo de freelance, serviços manuais e presenciais, como também serviços na modalidade online!
-
-Este o é o backend do projeto leme-io, ele foi desenvolvido em Node js e requer a configuração de um banco de dados para funcionar corretamente. 
+Este o é um projeto backend simples, ele foi desenvolvido em Node js e requer a configuração de um banco de dados para funcionar corretamente. 
 Para rodar o projeto localmente, siga as instruções abaixo.
 
 Pré-requisitos:
