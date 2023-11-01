@@ -1,4 +1,4 @@
-Este o é um projeto backend simples, ele foi desenvolvido em Node js e requer a configuração de um banco de dados para funcionar corretamente. 
+Este é um projeto backend simples, ele foi desenvolvido em Node js e requer a configuração de um banco de dados para funcionar corretamente. 
 Para rodar o projeto localmente, siga as instruções abaixo.
 
 Pré-requisitos:
